@@ -25,10 +25,10 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Lorenzo Badill",
+  "OWNER": "Lorenzo Badilla",
   "AGE": "15",
   "GENDER": "MALE",
-  "nickNameBot": "LorenzoBot",
+  "nickNameBot": "Lorenzo Ai",
   "FACEBOOK": "https://www.facebook.com/100082342305590",
   "prefix": "-",
   "database": {
