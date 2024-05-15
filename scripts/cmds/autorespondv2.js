@@ -19,11 +19,11 @@ const { body, messageID, threadID } = event;
 // Reactions based on words
 const emojis = {
 "🌸": ["Ritsu", "Princess", "sanchokuin", "Goddess", "Anaïs", "Barro", "Tsiaro", "Kazu", "Thea", "Aesther"],
-"💚": ["jolie", "belle", "beau", "gaganunin", "pfft", "xyrene", "fantastique"],
+"💚": ["server", "list", "beau", "gaganunin", "pfft", "xyrene", "fantastique"],
 "😾": ["🤨", "nooo", "talong", "galit"],
 "😼": ["wtf", "fck", "haaays", "stfu", "ngi ", "ngek", "nge ", "luh", "lah"],
 "😸": ["pill", "laugh", "lt ", "blague", "huy", "hoy"],
-"⏳": ["prodia", "sdxl", "bardv3", "tanongv2", "-imagine", "genimg", "Tanongv4", "kamla", "-shortcut"],
+"⏳": ["-ai", "ai", "bardv3", "tanongv2", "-imagine", "genimg", "Tanongv4", "kamla", "-shortcut"],
 "👋": ["salut", "bonjour", "c v"],
 "🌊": ["ok", "cool", "bien", "super", "d'accord", "génial", "merveille"],
 };
